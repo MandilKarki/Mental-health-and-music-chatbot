@@ -89,3 +89,134 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: stress_management
+  examples: |
+    - I'm feeling really stressed lately
+    - I need help managing stress
+    - I'm overwhelmed by stress
+    - How do I deal with stress?
+    - I can't handle this stress
+    - My stress is out of control
+    - I feel like I'm drowning in stress
+    - I need to find a way to cope with stress
+    - My stress levels are through the roof
+    - I'm looking for ways to manage my stress
+
+- intent: anxiety_and_panic_disorder
+  examples: |
+    - I'm feeling really anxious lately
+    - I need help with my anxiety
+    - I'm struggling with panic attacks
+    - How do I deal with anxiety?
+    - I feel like I'm losing control of my anxiety
+    - My anxiety is affecting my life
+    - I need to find a way to manage my anxiety
+    - I'm looking for ways to overcome my anxiety
+    - I'm constantly worried and anxious
+    - I need help controlling my panic attacks
+
+
+- intent: depression_and_dysthymia
+ examples: |
+    - I'm feeling really depressed lately
+    - I need help with my depression
+    - I'm struggling with feelings of sadness
+    - How do I deal with depression?
+    - I feel like I'm in a constant state of sadness
+    - My depression is affecting my life
+    - I need to find a way to manage my depression
+    - I'm looking for ways to overcome my depression
+    - I just don't feel like myself
+    - I'm constantly feeling down and hopeless
+   
+- intent: insomnia_and_sleep_disturbance
+  examples: |
+    - I'm having trouble sleeping lately
+    - I need help with my insomnia
+    - I'm struggling to fall asleep
+    - How do I improve my sleep
+    - I feel like I'm always tired
+    - My sleep is affecting my life
+    - I need to find a way to improve my sleep
+    - I'm looking for ways to get better sleep
+    - I just can't seem to fall asleep
+    - I'm constantly feeling exhausted
+    
+- intent: anger_management
+  examples: |
+    - I have trouble controlling my anger lately
+    - I need help managing my anger
+    - I struggle to keep my temper in check
+    - How do I deal with anger
+    - I feel like I'm always angry
+    - My anger is affecting my relationships
+    - I need to find a way to manage my anger
+    - I'm looking for ways to overcome my anger
+    - I just can't seem to control my temper
+    - I'm constantly feeling angry and frustrated
+
+- intent: grief_and_loss
+  examples: |
+    - I'm struggling with grief lately
+    - I need help with my grief
+    - I'm feeling overwhelmed by loss
+    - How do I deal with grief
+    - I feel like I can't move on
+    - My grief is affecting my life
+    - I need to find a way to manage my grief
+    - I'm looking for ways to cope with loss
+    - I just can't seem to let go
+    - I'm constantly feeling sad and alone
+    
+- intent: relationship_problems_and_communication_skills
+ examples: |
+    - I'm having trouble with my relationships lately
+    - I need help with my communication skills
+    - I struggle to connect with others
+    - How do I improve my relationships
+    - I feel like I don't understand my partner
+    - My relationships are suffering
+    - I need to find a way to improve my communication
+    - I'm looking for ways to build better relationships
+    - I just can't seem to get along with others
+    - I struggle to express my feelings to others
+
+- intent: low_self_esteem_and_negative_self_image
+ examples: |
+    - I'm feeling really insecure lately
+    - I need help with my self-esteem
+    - I struggle with negative thoughts about myself
+    - How do I improve my self-image
+    - I feel like I'm not good enough
+    - My self-esteem is affecting my life
+    - I need to find a way to improve my self-esteem
+    - I'm looking for ways to build confidence
+    - I just can't seem to believe in myself
+    - I'm constantly feeling inferior to others
+   
+- intent: trauma_and_PTSD
+  examples: |
+    - I'm struggling with trauma lately
+    - I need help with my PTSD
+    - I'm feeling overwhelmed by flashbacks
+    - How do I deal with trauma
+    - I feel like I'm constantly reliving the past
+    - My trauma is affecting my life
+    - I need to find a way to manage my PTSD
+    - I'm looking for ways to cope with trauma
+    - I just can't seem to move past the trauma
+    - I'm constantly feeling anxious and afraid
+    
+- intent: career_and_life_purpose
+ examples: |
+    - I'm feeling stuck in my career lately
+    - I need help finding my life purpose
+    - I'm struggling to figure out what I want to do
+    - How do I find my passion?
+    - I feel like I'm not where I want to be in life
+    - My career is not fulfilling me
+    - I need to find a way to discover my life purpose
+    - I'm looking for ways to pursue my passions
+    - I just can't seem to find meaning in my life
+    - I'm constantly feeling lost and uncertain about my future.
