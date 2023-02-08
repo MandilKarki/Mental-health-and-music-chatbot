@@ -5,3 +5,7 @@ A chatbot that deals as a psychological consultant, mental health personnel who 
 i will use receptivity for this part - https://docs.receptiviti.com/
 
 
+# how to run this project
+clone the project
+run the requirements.txt file
+
