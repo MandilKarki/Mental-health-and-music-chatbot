@@ -8,6 +8,24 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - stress_management
+  - anxiety_and_panic_disorder
+  - depression_and_dysthymia
+  - insomnia_and_sleep_disturbance
+  - anger_management
+  - grief_and_loss
+  - relationship_problems_and_communication_skills
+  - low_self_esteem_and_negative_self_image
+  - trauma_and_PTSD
+  - career_and_life_purpose
+  - music_production_techniques
+  - music_software_and_hardware_recommendations
+  - music_sampling_and_copyright_laws
+  - sound_design
+  - recording_and_mixing_techniques
+  - music_production_resources
+  - music_marketing_and_promotion
+  - music_collaboration_and_networking
 
 responses:
   utter_greet:
