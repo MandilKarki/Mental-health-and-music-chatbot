@@ -50,3 +50,6 @@ intents:
 9.     Music Education and Training Resources
 10.    Music Industry News and Trends
 
+mental health line - https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html?utm_campaign=hc-sc-winter-mh-22-23&utm_medium=sem&utm_source=ggl&utm_content=ad-text-en&utm_term=mental%20health&adv=2223-339952&id_campaign=18699201069&id_source=143159366055&id_content=630498826032&gclid=EAIaIQobChMIlpbUjpWH_QIVcYlbCh0LuA81EAAYASAAEgJdD_D_BwE&gclsrc=aw.ds
+
+
