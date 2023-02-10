@@ -143,3 +143,12 @@ Each type of trauma can result in different symptoms and challenges, and it is i
     Learn coping skills: Coping skills can help individuals manage symptoms and reduce distress. This can include mindfulness techniques, relaxation techniques, and stress management techniques.
 
     Seek professional help: Seeking help from a mental health professional, such as a therapist or counselor, can be a valuable part of the healing process. Mental health professionals can provide support, guidance, and evidence-based treatments for trauma.
+    
+    
+    # for chatbot
+    
+       Physical trauma, such as car accidents or natural disasters
+    Emotional trauma, such as abuse or neglect
+    Sexual trauma, such as sexual assault or harassment
+    Psychological trauma, such as witnessing or experiencing a traumatic event
+    Complex trauma, which is a combination of multiple traumatic experiences over time.
