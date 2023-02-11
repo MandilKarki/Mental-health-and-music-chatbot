@@ -28,3 +28,26 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: Trauma and PTSD Information
+  steps:
+  - intent: ask_about_trauma
+  - action: utter_explain_trauma
+  - intent: ask_about_ptsd
+  - action: utter_explain_ptsd
+
+- story: Coping with PTSD
+  steps:
+  - intent: ask_for_help_with_ptsd
+  - action: utter_offer_coping_strategies
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_glad_to_help
+
+- story: Negative Response to Coping Strategies
+  steps:
+  - intent: ask_for_help_with_ptsd
+  - action: utter_offer_coping_strategies
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_offer_other_resources
